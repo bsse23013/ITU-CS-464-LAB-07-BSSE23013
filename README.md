@@ -3,7 +3,7 @@
 **CS464 Game Development, Lab 07 (UI/UX)**
 Muhammad Sarmad Ahmad, BSSE23013
 
-ROLL RUSH is a small mobile ball game. For this lab I only built its menu system: ten connected screens in **one scene and one Canvas**. The actual level is not part of the lab, so the Game screen is a stand-in with a Pause button and two buttons that end the level (win or fail). The inpspiration was taken from "Smash Hit" thst is used to play for time pass or as in achiever in past.
+ROLL RUSH is a small mobile ball game. For this lab I only built its menu system: ten connected screens in **one scene and one Canvas**. The actual level is not part of the lab, so the Game screen is a stand-in with a Pause button and two buttons that end the level (win or fail). The inspiration was taken from "Smash Hit" that I used to play for time pass or as in achiever in past.
 
 - **Demo video:** https://drive.google.com/file/d/1nSqOYAJ2srfknmyWP-u9usq9yGPwufjx/view?usp=sharing
 
