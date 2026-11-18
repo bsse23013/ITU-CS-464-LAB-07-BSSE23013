@@ -223,3 +223,10 @@ Six small scripts in `Assets/Lab07/Scripts`:
 - `SettingsMenu`: vibration, tips and brightness.
 - `ButtonPress`: the 94% press feedback.
 - `Pulse`: the pulsing text on the Title screen.
+
+## Credits and references
+
+- Lecture 08, UI and UX in Games (CS464)
+- W3C, *Web Content Accessibility Guidelines (WCAG) 2*, contrast ratio.
+- Fonts: Lilita One and Poppins, SIL Open Font License (`Assets/Lab07/Licenses`).
+- Game inspirations: Smash Hit
